@@ -1,0 +1,35 @@
+body
+{
+font-family: Verdanal,Arial,Geneva,Arial Black;
+backgroung:Black;
+border: 2px solid red;
+}
+.FORM
+{
+max-width:500px;
+backgroung-color:Black;
+
+}
+.FORM input[type="text"],.FORM input[type="First Name"]
+{
+border: 2px solid red;
+
+}
+label
+{
+display:block;
+}
+input,textarea
+{
+display:block;
+}
+SubmitB
+{
+border:0;
+background:navy;
+}
+.FORM-control small
+{
+	invisibility: hidden;
+	
+}
